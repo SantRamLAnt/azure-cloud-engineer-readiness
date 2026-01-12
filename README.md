@@ -5,4 +5,4 @@ and professional experience to the Cloud Engineer role and Dartmouth MEng
 Computer Engineering academic alignment.
 
 🔗 Live Demo:
-https://SantramLAnt.github.io/cloud-engineer-alignment/
+https://santramlant.github.io/azure-cloud-engineer-readiness/
